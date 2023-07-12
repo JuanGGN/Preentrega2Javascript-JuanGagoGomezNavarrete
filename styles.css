@@ -1,0 +1,23 @@
+body{
+    background-color: khaki;
+}
+
+p {border-color: black 2px;
+display: flex;
+justify-content: center;
+}
+
+h1 {
+    border-color: red 3px;
+    display: flex;
+    justify-content: center;
+}
+
+
+footer{
+    border: 3px black;
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: space-evenly;
+}
